@@ -1,7 +1,7 @@
-## android-androidx-lifecycle-extensions
+## androidx-lifecycle-extensions
 
 Eclipse library project based on:<br/>
-https://maven.google.com/androidx/lifecycle/lifecycle-extensions/2.0.0/activity-2.0.0.aar
+https://maven.google.com/androidx/lifecycle/lifecycle-extensions/2.0.0/lifecycle-extensions-2.0.0.aar
 
 **Import:**
 - _File > Import... > Team > Team Project Set > URL:_<br/>
